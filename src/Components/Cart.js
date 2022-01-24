@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styling/cart.css';
 
 function Cart() {
   return (

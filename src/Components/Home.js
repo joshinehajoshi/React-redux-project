@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styling/home.css';
 import { Button } from 'react-bootstrap';
 
 
